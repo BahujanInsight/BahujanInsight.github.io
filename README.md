@@ -1,3 +1,9 @@
+
+[![Bahujan - Insight](https://img.shields.io/badge/Bahujan-Insight-blue)](https://bahujaninsight.github.io/)
+[![Contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
+
+
+
 ![alt text](/_posts/sid.jpg)
 **BahujanInsight** is an open-source and free-to-use platform for everyone in society, from well-educated researchers to everyday laborers. This space welcomes any thoughts, ideas, and expressions—as long as they align with values of respect and morality. 
 
