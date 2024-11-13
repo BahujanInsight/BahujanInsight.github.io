@@ -1,43 +1,45 @@
-# Chirpy Starter
+![alt text](/_posts/sid.jpg){: width="972" height="589" .w-50 .left}**BahujanInsight** is an open-source and free-to-use platform for everyone in society, from well-educated researchers to everyday laborers. This space welcomes any thoughts, ideas, and expressions—as long as they align with values of respect and morality. 
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Formal education is simply a label, but your values, skills, and character are your true achievements. Consider legends like **Anna Bhau Sathe**, who, despite lacking formal education, left a lasting legacy; **Bahinabai Chaudhari**, an illiterate woman whose 50-60 existing poems inspired the naming of a university; **Srinivasa Ramanujan**, who had no formal education in higher mathematics but became one of its most brilliant minds; and **Sir Isaac Newton**, who once failed a math exam but went on to be one of the greatest mathematicians in history. 
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+Here at BahujanInsight, you are invited to express yourself. Share your innovative and creative ideas, from math puzzles and stories to travelogues, poems, paintings, and insights into science, art, and culture. This is your space to contribute, inspire, and build a community around shared wisdom and curiosity.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+>If you would like to join the **Bahujan Insights** Google Group, please follow these steps:
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+1. **Visit the Google Group link**  
+   Click on [Bahujan Insights Google Group](https://groups.google.com/g/bahujaninsights). You’ll be redirected to the group page.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+2. **Log in for Access**  
+  Initially, you may see a message stating: “You don’t have permission to access this content. For access, try logging in.” Click on **"try logging in"**.
 
-## Usage
+3. **Sign in with Google Credentials**  
+    Use your Google account to sign in. If you don’t have a Google account, you can create one for free.
+ After signing in, you will be redirected back to the Bahujan Insights group page.
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+4. **Join the Group**  
+  You should now see an option to **"Join group"**. Click on it.
 
-## Contributing
+5. **Edit Subscription Settings (Optional)**  
+   - You can adjust your subscription settings, such as email frequency, according to your preference.
+   - After making any changes, click **"Join group"** again to complete the process.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+**Congratulations** You are now a member of the Bahujan Insights community and can stay updated on discussions and posts shared within the group.
 
-## License
+--- 
 
-This work is published under [MIT][mit] License.
+Feel free to reach out if you have any questions or need further assistance with joining.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+>Let’s come together to celebrate the power of knowledge in all its forms!Put forward your ideas here!
+
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+
+ > Please share your Ideas/Writings/Material via this mail or google group in Doc format.
+{: .prompt-tip }
+
+<!-- markdownlint-restore -->
+
+> Contact 
+
+E-Mail : bahujaninsight@gmail.com
