@@ -1,6 +1,7 @@
 
 [![Bahujan - Insight](https://img.shields.io/badge/Bahujan-Insight-blue)](https://bahujaninsight.github.io/)
 [![Contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
+[![Developing - Phase](https://img.shields.io/badge/Developing-Phase-red)](https://bahujaninsight.github.io/)
 
 
 
