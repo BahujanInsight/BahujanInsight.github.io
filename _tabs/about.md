@@ -10,7 +10,45 @@ Formal education is simply a label, but your values, skills, and character are y
 
 Here at BahujanInsight, you are invited to express yourself. Share your innovative and creative ideas, from math puzzles and stories to travelogues, poems, paintings, and insights into science, art, and culture. This is your space to contribute, inspire, and build a community around shared wisdom and curiosity.
 
-Let’s come together to celebrate the power of knowledge in all its forms!
+
+>If you would like to join the **Bahujan Insights** Google Group, please follow these steps:
+
+1. **Visit the Google Group link**  
+   Click on [Bahujan Insights Google Group](https://groups.google.com/g/bahujaninsights). You’ll be redirected to the group page.
+
+2. **Log in for Access**  
+  Initially, you may see a message stating: “You don’t have permission to access this content. For access, try logging in.” Click on **"try logging in"**.
+
+3. **Sign in with Google Credentials**  
+    Use your Google account to sign in. If you don’t have a Google account, you can create one for free.
+ After signing in, you will be redirected back to the Bahujan Insights group page.
+
+4. **Join the Group**  
+  You should now see an option to **"Join group"**. Click on it.
+
+5. **Edit Subscription Settings (Optional)**  
+   - You can adjust your subscription settings, such as email frequency, according to your preference.
+   - After making any changes, click **"Join group"** again to complete the process.
+
+**Congratulations** You are now a member of the Bahujan Insights community and can stay updated on discussions and posts shared within the group.
+
+--- 
+
+Feel free to reach out if you have any questions or need further assistance with joining.
+
+>Let’s come together to celebrate the power of knowledge in all its forms!Put forward your ideas here!
+
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+
+ > Please share your Ideas/Writings/Material via this mail or google group in Doc format.
+{: .prompt-tip }
+
+<!-- markdownlint-restore -->
+
+> Contact 
+
+E-Mail : bahujaninsight@gmail.com
 
 Portrait by Bakeryprasad[^footnote].
 
