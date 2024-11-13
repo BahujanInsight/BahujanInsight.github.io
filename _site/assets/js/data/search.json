@@ -1,0 +1,106 @@
+[
+  
+  {
+    "title": "Zotero 7: A Major Milestone in Reference Management",
+    "url": "/posts/Zotero-Guide/",
+    "categories": "academic writing, software, research, Zotero",
+    "tags": "Zotero 7, reference manager",
+    "date": "2024-11-13 00:00:00 +0530",
+    
+
+
+
+
+
+    
+    "snippet": "Zotero, the freeware reference manager, has reached a major milestone with the release of Zotero 7, after an extensive period of 365+ days and over 100+ beta versions. This latest version allows se...",
+    "content": "Zotero, the freeware reference manager, has reached a major milestone with the release of Zotero 7, after an extensive period of 365+ days and over 100+ beta versions. This latest version allows seamless integration with various platforms including browsers, remote databases like Zoofr, Markdown databases like Zettlr, Microsoft and Google products, Overleaf, and Notero.You can integrate zotero zettlrDownload zetllrCheck this Documentation for usageDr. Chinmaya S Rathore, former professor at IIFM, has shared a tutorial on Zotero 7.Explore the tutorial here:Zotero 7 TutorialEnhance your research experience by downloading Zotero 7:Download Zotero 7Access all Addons here:Zotero AddonsFor a Zotero manual, visit:Zotero ManualAdditionally, optimize your workflow with the MSWord Macro code for Citations HyperLink available at:MSWord Macro CodeIf you want to contribute, Zotero is hosted on Github. For plugin development, use this template:Zotero GitHub &amp; Plugin Template#Zotero #ReferenceManager #AcademicResearch"
+  },
+  
+  {
+    "title": "R Package App: Public Provisioning in Maharashtra",
+    "url": "/posts/PP4MH/",
+    "categories": "R",
+    "tags": "maharashtra",
+    "date": "2024-11-13 00:00:00 +0530",
+    
+
+
+
+
+
+    
+    "snippet": "R Package App: Public Provisioning in MaharashtraThe R Package App: Public Provisioning in Maharashtra is an interactive application designed to visualize and analyze public provisioning data in th...",
+    "content": "R Package App: Public Provisioning in MaharashtraThe R Package App: Public Provisioning in Maharashtra is an interactive application designed to visualize and analyze public provisioning data in the state of Maharashtra. This app is deployed using ShinyLive, a powerful framework that facilitates running Shiny apps directly in the browser.Installation and SetupTo install the package, use the following command in your R console:install.packages(\"devtools)library(devtools)devtools::install_github(\"https://github.com/econstar/PP4MH\")# launch shiny app launch_app()"
+  },
+  
+  {
+    "title": "कविता: कणा",
+    "url": "/posts/Kusumagraj-poem/",
+    "categories": "poetry, Marathi, literature",
+    "tags": "कविता, कुसुमाग्रज",
+    "date": "2024-11-13 00:00:00 +0530",
+    
+
+
+
+
+
+    
+    "snippet": "कविता: कणाकवी: कुसुमाग्रजमूळ कविता:ओळखलत का सर् मला पावसात आला कोणीकपडे होते कर्दमलेले केसावरति पाणीक्षणभर बसला नंतर हसला बोलला वरती पाहुनगंगामाई पाहुणि आलि गेली घरटयात राहुनमाहेरवाशिण पोरिसारखी चा...",
+    "content": "कविता: कणाकवी: कुसुमाग्रजमूळ कविता:ओळखलत का सर् मला पावसात आला कोणीकपडे होते कर्दमलेले केसावरति पाणीक्षणभर बसला नंतर हसला बोलला वरती पाहुनगंगामाई पाहुणि आलि गेली घरटयात राहुनमाहेरवाशिण पोरिसारखी चार भिंतित नाचलीमोकळ्या हाती जाईल कशी बायको माञ वाचलीभिंत खचली चूल वीझली होते नव्हते नेलेप्रसाद म्हणुन पापण्यांमधे पाणी माञ ठेवलेकारभारणीला घेऊण संगे सर आता लढतो आहेपडकी भिंत बान्धतो आहे चिखल गाळ काढतो आहेखिशाकडे हात जाताच हसत हसत उठलापैसे नको सर जरा एकटेपणा वाटलामोडून पडला संसार तरि मोडला नाहि कणापाठीवरती हात ठेउन नुसते लढ म्हणा.शब्दार्थ:  कर्दमलेले: भिजलेले  कारभारणी: पत्नी  गंगामाई: गंगा नदी / नदी"
+  },
+  
+  {
+    "title": "Welcome to BahujanInsight: A Platform for All Voices",
+    "url": "/posts/Introduction/",
+    "categories": "BahujanInsight",
+    "tags": "BahujanInsight",
+    "date": "2024-11-13 00:00:00 +0530",
+    
+
+
+
+
+
+    
+    "snippet": "BahujanInsight is an open-source and free-to-use platform for everyone in society, from well-educated researchers to everyday laborers. This space welcomes any thoughts, ideas, and expressions—as l...",
+    "content": "BahujanInsight is an open-source and free-to-use platform for everyone in society, from well-educated researchers to everyday laborers. This space welcomes any thoughts, ideas, and expressions—as long as they align with values of respect and morality.Formal education is simply a label, but your values, skills, and character are your true achievements. Consider legends like Anna Bhau Sathe, who, despite lacking formal education, left a lasting legacy; Bahinabai Chaudhari, an illiterate woman whose 50-60 existing poems inspired the naming of a university; Srinivasa Ramanujan, who had no formal education in higher mathematics but became one of its most brilliant minds; and Sir Isaac Newton, who once failed a math exam but went on to be one of the greatest mathematicians in history.Here at BahujanInsight, you are invited to express yourself. Share your innovative and creative ideas, from math puzzles and stories to travelogues, poems, paintings, and insights into science, art, and culture. This is your space to contribute, inspire, and build a community around shared wisdom and curiosity.Let’s come together to celebrate the power of knowledge in all its forms!"
+  },
+  
+  {
+    "title": "EklavyaEcon: Bridging Gaps in Economics and Policy Education",
+    "url": "/posts/EklavyaEcon/",
+    "categories": "eklavyaecon, resources, economics, policy",
+    "tags": "EklavyaIndiaFoundation, Maharashtra, economics, policy, academia, resources, first-generation learners",
+    "date": "2024-11-13 00:00:00 +0530",
+    
+
+
+
+
+
+    
+    "snippet": "In the state of Maharashtra, core components of economics and policy education are often overlooked in formal academia. This gap in structured learning leaves aspiring academics in a challenging po...",
+    "content": "In the state of Maharashtra, core components of economics and policy education are often overlooked in formal academia. This gap in structured learning leaves aspiring academics in a challenging position, expected to acquire these essential skills and knowledge “along the way.” Unfortunately, for many, especially first-generation learners, limited access to resources and learning opportunities hinders their academic progress.Even for experienced academics, there’s a noticeable lack of awareness about valuable online resources that can facilitate a deeper understanding of subjects like econometrics. These resources, which provide insightful and practical guidance, are underutilized within the academic community.In response to these challenges, Eklavya India Foundation has undertaken an initiative to compile a comprehensive set of resources. We believe these materials can be instrumental for those pursuing knowledge in economics and policy. By sharing this resource collection, our goal is to bridge the educational gap and empower first-generation learners to strengthen their academic potential.We invite your feedback to improve and expand this initiative. Please share your suggestions by creating an issue on GitHub.  GitHub Repository: https://github.com/EklavyaEcon  Live Site: https://eklavyaecon.github.io/"
+  },
+  
+  {
+    "title": "Buddhist Homoeconomicus: Integrating Spiritual and Material Desires in Economics",
+    "url": "/posts/Buddhist-Homoeconomicus/",
+    "categories": "economics, philosophy, Buddhism, poetry",
+    "tags": "Buddhist Homoeconomicus",
+    "date": "2024-11-13 00:00:00 +0530",
+    
+
+
+
+
+
+    
+    "snippet": "Buddhist Homoeconomicusबुद्धाचे स्मितहास्य,काय त्याचे रहस्य?वेद आणि वेदना!बुद्धाचे हे औचित्य,हे कळावया तत्त्व!विश्वाचे विश्वप्रित्यार्थत्याग हेची आदित्य!सत्य हेची सामर्थ्य!काय बुद्धाचे गमक?तो सम्यक...",
+    "content": "Buddhist Homoeconomicusबुद्धाचे स्मितहास्य,काय त्याचे रहस्य?वेद आणि वेदना!बुद्धाचे हे औचित्य,हे कळावया तत्त्व!विश्वाचे विश्वप्रित्यार्थत्याग हेची आदित्य!सत्य हेची सामर्थ्य!काय बुद्धाचे गमक?तो सम्यक साधक!न उच्चलता शस्त्र,गेला सांगून शास्त्र!~ महेश सूर्यवंशीवेद = ज्ञानIn Buddhist terminology, there are two types of desires: the materialistic one, known as “tanha”, and the spiritualistic one, known as “chanda”. The first relates to cravings and attachments, while the second concerns the cultivation of inner peace and self-development (Pyutto, 1992).In the real world, individuals often seek both material well-being and inner peace. Therefore, real consumer preferences could be seen as a blend of “chanda” and “tanha”. However, traditional price theory models primarily focus on “tanha”, which assumes monotonic preferences. This raises an important question: should we incorporate “chanda” preferences into price theory models, especially in light of the increasing emphasis on well-being and mental health in modern economics?What if we extended price theory to include these postulates? Would it become essential in contemporary contexts?A Proposed Utility FunctionIf we were to expand price theory to include both material and spiritual desires, what might a utility function look like? Consider two bundles: X, representing material goods (such as cars), and Y, representing spiritual or mindful goods (such as meditation). From this perspective, these two bundles might be seen as complements for achieving a more fulfilling life.Thus, the utility function could be expressed as:U(X, Y) = Min(X, Y)This utility function suggests that utility is maximized only when there is a balance between material and spiritual consumption. Increasing the consumption of one good alone will not increase utility unless both are present in the right proportions. In essence, harmony between both types of goods is necessary for complete satisfaction.Final ThoughtsThe concept of Buddhist Homoeconomicus challenges us to rethink traditional consumer theory by integrating material and spiritual desires. Incorporating “chanda” into economic models could provide a more holistic understanding of consumer behavior, one that aligns both material fulfillment and inner peace."
+  }
+  
+]
+

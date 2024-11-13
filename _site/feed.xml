@@ -1,0 +1,188 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>BahujanInsight</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-11-13T18:24:51+05:30</updated>
+  <author>
+    <name>BahujanInsight</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en mr-IN"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024 BahujanInsight </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Zotero 7: A Major Milestone in Reference Management</title>
+    <link href="http://localhost:4000/posts/Zotero-Guide/" rel="alternate" type="text/html" title="Zotero 7: A Major Milestone in Reference Management" />
+    <published>2024-11-13T00:00:00+05:30</published>
+  
+    <updated>2024-11-13T18:14:57+05:30</updated>
+  
+    <id>http://localhost:4000/posts/Zotero-Guide/</id>
+    <content src="http://localhost:4000/posts/Zotero-Guide/" />
+    <author>
+      <name>BahujanInsight</name>
+    </author>
+
+  
+    
+    <category term="academic writing" />
+    
+    <category term="software" />
+    
+    <category term="research" />
+    
+    <category term="Zotero" />
+    
+  
+
+  <summary>Zotero, the freeware reference manager, has reached a major milestone with the release of Zotero 7, after an extensive period of 365+ days and over 100+ beta versions. This latest version allows seamless integration with various platforms including browsers, remote databases like Zoofr, Markdown databases like Zettlr, Microsoft and Google products, Overleaf, and Notero.
+
+You can integrate zoter...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>R Package App: Public Provisioning in Maharashtra</title>
+    <link href="http://localhost:4000/posts/PP4MH/" rel="alternate" type="text/html" title="R Package App: Public Provisioning in Maharashtra" />
+    <published>2024-11-13T00:00:00+05:30</published>
+  
+    <updated>2024-11-13T18:14:31+05:30</updated>
+  
+    <id>http://localhost:4000/posts/PP4MH/</id>
+    <content src="http://localhost:4000/posts/PP4MH/" />
+    <author>
+      <name>BahujanInsight</name>
+    </author>
+
+  
+    
+    <category term="R" />
+    
+  
+
+  <summary>R Package App: Public Provisioning in Maharashtra
+
+The R Package App: Public Provisioning in Maharashtra is an interactive application designed to visualize and analyze public provisioning data in the state of Maharashtra. This app is deployed using ShinyLive, a powerful framework that facilitates running Shiny apps directly in the browser.
+
+Installation and Setup
+
+To install the package, use t...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>कविता: कणा</title>
+    <link href="http://localhost:4000/posts/Kusumagraj-poem/" rel="alternate" type="text/html" title="कविता: कणा" />
+    <published>2024-11-13T00:00:00+05:30</published>
+  
+    <updated>2024-11-13T00:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/Kusumagraj-poem/</id>
+    <content src="http://localhost:4000/posts/Kusumagraj-poem/" />
+    <author>
+      <name>कुसुमाग्रज</name>
+    </author>
+
+  
+    
+    <category term="poetry" />
+    
+    <category term="Marathi" />
+    
+    <category term="literature" />
+    
+  
+
+  <summary>कविता: कणा
+
+कवी: कुसुमाग्रज
+
+मूळ कविता:
+
+ओळखलत का सर् मला पावसात आला कोणी
+कपडे होते कर्दमलेले केसावरति पाणी
+
+क्षणभर बसला नंतर हसला बोलला वरती पाहुन
+गंगामाई पाहुणि आलि गेली घरटयात राहुन
+
+माहेरवाशिण पोरिसारखी चार भिंतित नाचली
+मोकळ्या हाती जाईल कशी बायको माञ वाचली
+
+भिंत खचली चूल वीझली होते नव्हते नेले
+प्रसाद म्हणुन पापण्यांमधे पाणी माञ ठेवले
+
+कारभारणीला घेऊण संगे सर आता लढतो आहे
+पडकी भिंत बान्धतो ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Welcome to BahujanInsight: A Platform for All Voices</title>
+    <link href="http://localhost:4000/posts/Introduction/" rel="alternate" type="text/html" title="Welcome to BahujanInsight: A Platform for All Voices" />
+    <published>2024-11-13T00:00:00+05:30</published>
+  
+    <updated>2024-11-13T00:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/Introduction/</id>
+    <content src="http://localhost:4000/posts/Introduction/" />
+    <author>
+      <name>BahujanInsight</name>
+    </author>
+
+  
+    
+    <category term="BahujanInsight" />
+    
+  
+
+  <summary>BahujanInsight is an open-source and free-to-use platform for everyone in society, from well-educated researchers to everyday laborers. This space welcomes any thoughts, ideas, and expressions—as long as they align with values of respect and morality.
+
+Formal education is simply a label, but your values, skills, and character are your true achievements. Consider legends like Anna Bhau Sathe, wh...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>EklavyaEcon: Bridging Gaps in Economics and Policy Education</title>
+    <link href="http://localhost:4000/posts/EklavyaEcon/" rel="alternate" type="text/html" title="EklavyaEcon: Bridging Gaps in Economics and Policy Education" />
+    <published>2024-11-13T00:00:00+05:30</published>
+  
+    <updated>2024-11-13T00:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/EklavyaEcon/</id>
+    <content src="http://localhost:4000/posts/EklavyaEcon/" />
+    <author>
+      <name>BahujanInsight</name>
+    </author>
+
+  
+    
+    <category term="eklavyaecon" />
+    
+    <category term="resources" />
+    
+    <category term="economics" />
+    
+    <category term="policy" />
+    
+  
+
+  <summary>In the state of Maharashtra, core components of economics and policy education are often overlooked in formal academia. This gap in structured learning leaves aspiring academics in a challenging position, expected to acquire these essential skills and knowledge “along the way.” Unfortunately, for many, especially first-generation learners, limited access to resources and learning opportunities ...</summary>
+
+  </entry>
+
+</feed>
+
+
