@@ -6,7 +6,7 @@ categories: [academic writing, software, research, Zotero]
 tags: [Zotero 7, reference manager]
 ---
 
-![alt text](zotero-1.jpg){: width="972" height="589" .w-50 .left}
+
 Zotero, the freeware reference manager, has reached a major milestone with the release of **Zotero 7**, after an extensive period of 365+ days and over 100+ beta versions. This latest version allows seamless integration with various platforms including browsers, remote databases like **Zoofr**, Markdown databases like **Zettlr**, Microsoft and Google products, **Overleaf**, and **Notero**.
 
 
